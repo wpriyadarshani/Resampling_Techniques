@@ -1,4 +1,4 @@
-# Resampling_Techniques for Imbalanced Data in Remote Sensing Images
+# Resampling Techniques for Imbalanced Data in Remote Sensing Images
 
   1. SMOTE
   2. Undersampling
